@@ -1,0 +1,7 @@
+imie=input("Podaj imie:")
+print("Witaj", imie ,"jesteś fajny")
+wiek=input("Podaj swój wiek: ")
+print ("Masz", wiek ,"lat")
+a=input("Napisz liczbę:")
+b=input("Podaj jeszcze raz liczbę:")
+print(b or a)
